@@ -46,5 +46,11 @@ Team includes
 
 #### Credits
 
+# Demo
+<p>
+  Check out the demo of our application 
+  <a href="">EquiDonate - Verified Aid Application</a>
+</p>
+
 
 
