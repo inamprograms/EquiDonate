@@ -31,7 +31,20 @@ Let's take a tour of EquiDonate
 #### Donations
 ![5tempsnip](https://github.com/inamprograms/VerifAid/assets/113470083/a33652db-268c-4d34-81bd-a6ca47bbb9aa)
 
+#### Our Team
+<p>Our team is a group of diverse people from different areas.
+Team includes 
+  <a href="https://www.linkedin.com/in/jose-rodrigo-campo-vargas-b19894183/">Jose Campo</a>
+  <a href="https://www.linkedin.com/in/saira-asghar-859977141/">Saira Asghar</a>
+  <a href="https://www.linkedin.com/in/iqra-akhtar-/">Iqra Akhtar</a>
+  <a href="https://www.linkedin.com/in/muhammad-mubashir-3a9b3b24b/">Muhammad Mubashir</a>
+  <a href="https://www.linkedin.com/in/inamulrehman/">Inam ul Rehman</a>
+  and 
+  <a href="">Talha</a>
 
+</p>
+
+#### Credits
 
 
 
