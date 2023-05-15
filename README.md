@@ -34,11 +34,11 @@ Let's take a tour of EquiDonate
 #### Our Team
 <p>Our team is a group of diverse people from different areas.
 Team includes 
-  <a href="https://www.linkedin.com/in/jose-rodrigo-campo-vargas-b19894183/" target="_blank">Jose Campo</a>
-  <a href="https://www.linkedin.com/in/saira-asghar-859977141/" target="_blank">Saira Asghar</a>
-  <a href="https://www.linkedin.com/in/iqra-akhtar-/" target="_blank">Iqra Akhtar</a>
-  <a href="https://www.linkedin.com/in/muhammad-mubashir-3a9b3b24b/" target="_blank">Muhammad Mubashir</a>
-  <a href="https://www.linkedin.com/in/inamulrehman/" target="_blank">Inam ul Rehman</a>
+  <a href="https://www.linkedin.com/in/jose-rodrigo-campo-vargas-b19894183/" target="_blank" >Jose Campo</a>
+  <a href="https://www.linkedin.com/in/saira-asghar-859977141/" target="_blank" >Saira Asghar</a>
+  <a href="https://www.linkedin.com/in/iqra-akhtar-/" target="_blank" >Iqra Akhtar</a>
+  <a href="https://www.linkedin.com/in/muhammad-mubashir-3a9b3b24b/" target="_blank" >Muhammad Mubashir</a>
+  <a href="https://www.linkedin.com/in/inamulrehman/" target="_blank" >Inam ul Rehman</a>
   and 
   <a href="">Talha</a>
 
@@ -49,7 +49,7 @@ Team includes
 # Demo
 <p>
   Check out the demo of our application 
-  <a href="" target="_blank">EquiDonate - Verified Aid Application</a>
+  <a href="" target="_blank" >EquiDonate - Verified Aid Application</a>
 </p>
 
 
