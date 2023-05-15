@@ -40,7 +40,7 @@ Team includes
   <a href="https://www.linkedin.com/in/muhammad-mubashir-3a9b3b24b/" target="_blank" >Muhammad Mubashir</a>
   <a href="https://www.linkedin.com/in/inamulrehman/" target="_blank" >Inam ul Rehman</a>
   and 
-  <a href="">Talha</a>
+  <a href="https://www.linkedin.com/in/muhammad-talha-361811227">Muhammad Talha</a>
 
 </p>
 
@@ -49,7 +49,7 @@ Team includes
 # Demo
 <p>
   Check out the demo of our application 
-  <a href="" target="_blank" >EquiDonate - Verified Aid Application</a>
+  <a href="https://youtu.be/Hpb60iHiDCM" target="_blank" >EquiDonate - Verified Aid Application</a>
 </p>
 
 
